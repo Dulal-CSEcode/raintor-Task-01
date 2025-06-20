@@ -50,20 +50,20 @@ A pixel-perfect, fully responsive portfolio homepage built with Next.js and Tail
 
 ## 🚀 Getting Started
 
-### Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/portfolio-home.git
 cd portfolio-home
 ```
 
-##🚀 Getting Started
-#Prerequisites
+## 🚀 Getting Started
+# Prerequisites
 Node.js v18+
 npm or yarn
 
 
-#Installation
+# Installation
 1. Clone the repository
 
 ```bash
@@ -86,7 +86,7 @@ yarn dev
 ```
 Open http://localhost:3000 in your browser.
 
-##🎨 Theme Configuration
+## 🎨 Theme Configuration
 The theme toggle persists between sessions using localStorage. Edit the color scheme in:
 
 tailwind.config.js - Theme colors
@@ -95,7 +95,7 @@ utils/theme.ts - Theme logic
 
 styles/globals.css - Base styles
 
-##🚀 Deployment
+## 🚀 Deployment
 Deploy to Vercel with one click:
 
 https://vercel.com/button
@@ -108,10 +108,10 @@ GitHub Pages
 
 Render
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🙌 Credits
+## 🙌 Credits
 Design inspired by Figma Community
 
 Developed by MD Dulal Hossain
