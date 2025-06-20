@@ -49,15 +49,6 @@ A pixel-perfect, fully responsive portfolio homepage built with Next.js and Tail
 ```
 
 ## 🚀 Getting Started
-
-## Installation
-
-```bash
-git clone https://github.com/your-username/portfolio-home.git
-cd portfolio-home
-```
-
-## 🚀 Getting Started
 # Prerequisites
 Node.js v18+
 npm or yarn
