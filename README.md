@@ -5,7 +5,7 @@ A pixel-perfect, fully responsive portfolio homepage built with Next.js and Tail
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge)](https://raintor-task-01-ntll.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
-![Portfolio Screenshot](Portfolio Screenshot.JPG)
+![Portfolio Screenshot](https://github.com/Dulal-CSEcode/raintor-Task-01/blob/main/Portfolio%20Screenshot.JPG?raw=true)
 
 ## ✨ Features
 
