@@ -51,6 +51,7 @@ A pixel-perfect, fully responsive portfolio homepage built with Next.js and Tail
 ## 🚀 Getting Started
 # Prerequisites
 Node.js v18+
+
 npm or yarn
 
 
